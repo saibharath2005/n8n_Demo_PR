@@ -1,4 +1,4 @@
-##### GitHub Pull Request Automation with n8n
+### GitHub Pull Request Automation with n8n
 
 This project demonstrates how n8n can be used to automate GitHub Pull Request workflows.
 Whenever a pull request is created or updated, the automation is triggered using GitHub webhooks.
